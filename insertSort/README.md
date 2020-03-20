@@ -1,4 +1,4 @@
-## Insert sort. performs better than bubble sort but stil garb.
+## Insert sort. performs better than bubble sort but still garb.
 
 ### Algorithm discription;
 
